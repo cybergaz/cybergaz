@@ -1,5 +1,5 @@
 <div id="header" align="center" >
-  <kbd><img src="pic1.png" width="500" style="border-radius: 12px;"></kbd>
+  <img src="pic1.png" width="400" radius="12px">
 </div>
 
 
