@@ -7,7 +7,7 @@
 
 
 <!-- add a thin line here -->
-  <hr style="height:1px;border:none;color:#333;background-color:#333;" />
+  <hr style="height:0.1px;border:none;color:#333;background-color:#333;" />
 
 <div id="header" align="center" >
 
